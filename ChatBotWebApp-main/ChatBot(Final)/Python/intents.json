@@ -1,0 +1,189 @@
+{
+    "intents": [
+    {
+        "tag": "greeting",
+        "patterns" : [
+            "Hi",
+            "Hey",
+            "Hello",
+            "Anyone there?",
+            "How are you?"
+        ],
+        "responses" : [
+            "Hey :-)",
+            "Hello, its good to have you here. So how was your day?",
+            "Hi there, what would you   like to talk about?",
+            "Hi there, so what's new?"
+        ]
+    },
+    {
+        "tag" : "goodbye",
+        "patterns" : [
+            "Bye",
+            "See you later",
+            "Goodbye",
+            "Goodnights"
+        ],
+        "responses" : [
+            "See you later, hope this helped.",
+            "Have a great day ahead.",
+            "Adios, you got this.",
+            "Bye! See you tomorrow!"
+        ]
+        
+    },
+    {
+        "tag" : "thanks",
+        "patterns" : [
+            "thanks a lot",
+            "this helps",
+            "I needed this",
+            "Thankyou",
+            "That was helpful"
+        ],
+        "responses" : [
+            "I am glad this helped",
+            "Anytime!"
+        ]
+
+    },
+    {
+        "tag" : "sad",
+        "patterns" : [
+            "feeling sad",
+            "depressed",
+            "depressing",
+            "unhappy",
+            "angry",
+            "tired",
+            "I want space",
+            "restriction",
+            "lost",
+            "rough day",
+            "low"
+        ],
+        "responses" : [
+            "Cheer Up! Its gonna be fine.",
+            "Hang in there!","Don't give up.",
+            "You are a great person",
+            "Keep pushing.",
+            "Keep fighting!",
+            "It's okay to feel that way",
+            "Don't worry you'll be fine"
+        ]
+
+    },
+    {
+        "tag" : "happy",
+        "patterns" : [
+            "overwhelmed",
+            "satisfied",
+            "happy",
+            "fortunate",
+            "grateful"
+        ],
+        "responses" : [
+            "That's really great I am really happy for you",
+            "Well that makes me happy too!",
+            "Tell me more."
+        ]
+
+    },
+    {
+        "tag" : "drytext",
+        "patterns" : [
+            "nothing much",
+            "its ok",
+            "good",
+            "I am good",
+            "fine",
+            "yes",
+            "I do",
+            "but",
+            "I know",
+            "not really"
+        ],
+        "responses" : [
+            "So, how are things at College?",
+            "Is there any thought thats bothering you?",
+            "How are you feeling at this moment?",
+            "You want to talk about your day?"
+        ]
+        
+    },
+
+    {
+        "tag" : "stress",
+        "patterns" : [
+            "offline exams",
+            "exams",
+            "papers",
+            "stress",
+            "work load",
+            "getting fat",
+            "financial issues"
+        ],
+        "responses" : [
+            "Okay, tell me more about it",
+            "I know you are trying your best.",
+            "This shall pass to",
+            "I understand. Its gonna be fine."
+        ]
+    },
+    {
+        "tag" : "links",
+        "patterns" : [
+            "bored",
+            "nothing to do",
+            "no work",
+            "need to get my mind off it"
+        ],
+        "responses" : [
+            "Well I do have some web series suggestions for you!!",
+            "I just made a customly designed playlist for you\nshorturl.at/tHLV2",
+            "Lets play some games."
+        ]
+    },
+    {
+        "tag" : "therapist",
+        "patterns" : [
+            "Councellor",
+            "therapist",
+            "I would like to talk to a human",
+            "Can you connect me to a therapist",
+            "therapy"
+        ],
+        "responses" :   [
+            "Sure, lets get you connected : (+914) 066202000",
+            "Sure, lets get you connected : +91 80 23655557",
+            "Sure, lets get you connected : (+918) 322252525",
+            "Sure, lets get you connected : (914) 424640050",
+            "Sure, lets get you connected : (186) 02662345",
+            "Sure, lets get you connected : (919) 922001122",
+            "Sure, lets get you connected : 91 84229 84528",
+            "Sure, lets get you connected : 022-25521111",
+            "Sure, lets get you connected : (982)0466726"
+          ]
+    },
+    {
+        "tag": "1590140",
+        "patterns": ["What does it mean to have a mental illness?"],
+        "responses": ["Mental illnesses are health conditions that disrupt a persons thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in the ordinary activities of daily life.\nMental illnesses fall along a continuum of severity: some are fairly mild and only interfere with some aspects of life, such as certain phobias. On the other end of the spectrum lie serious mental illnesses, which result in major functional impairment and interference with daily life. These include such disorders as major depression, schizophrenia, and bipolar disorder, and may require that the person receives care in a hospital.\nIt is important to know that mental illnesses are medical conditions that have nothing to do with a personÃ¢â‚¬â„¢s character, intelligence, or willpower. Just as diabetes is a disorder of the pancreas, mental illness is a medical condition due to the brainÃ¢â‚¬â„¢s biology.\nSimilarly to how one would treat diabetes with medication and insulin, mental illness is treatable with a combination of medication and social support. These treatments are highly effective, with 70-90 percent of individuals receiving treatment experiencing a reduction in symptoms and an improved quality of life. With the proper treatment, it is very possible for a person with mental illness to be independent and successful."]
+      },
+      {
+        "tag": "2110618",
+        "patterns": ["Who does mental illness affect?"],
+        "responses": ["It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background.\nAlthough mental illness can affect anyone, certain conditions may be more common in different populations. For instance, eating disorders tend to occur more often in females, while disorders such as attention deficit/hyperactivity disorder is more prevalent in children.\nAdditionally, all ages are susceptible, but the young and the old are especially vulnerable. Mental illnesses usually strike individuals in the prime of their lives, with 75 percent of mental health conditions developing by the age of 24. This makes identification and treatment of mental disorders particularly difficult, because the normal personality and behavioral changes of adolescence may mask symptoms of a mental health condition.\nParents and caretakers should be aware of this fact, and take notice of changes in their childÃ¢â‚¬â„¢s mood, personality, personal habits, and social withdrawal. When these occur in children under 18, they are referred to as serious emotional disturbances (SEDs)."]
+      },
+      {
+        "tag": "6361820",
+        "patterns": ["What causes mental illness?"],
+        "responses": ["It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Although mental illness can affect anyone, certain conditions may be more common in different populations. For instance, eating disorders tend to occur more often in females, while disorders such as attention deficit/hyperactivity disorder is more prevalent in children. Additionally, all ages are susceptible, but the young and the old are especially vulnerable. Mental illnesses usually strike individuals in the prime of their lives, with 75 percent of mental health conditions developing by the age of 24. This makes identification and treatment of mental disorders particularly difficult, because the normal personality and behavioral changes of adolescence may mask symptoms of a mental health condition. Parents and caretakers should be aware of this fact, and take notice of changes in their childs mood, personality, personal habits, and social withdrawal. When these occur in children under 18, they are referred to as serious emotional disturbances (SEDs)."]
+      },
+      {
+        "tag": "9434130",
+        "patterns": ["What are some of the warning signs of mental illness?"],
+        "responses": ["Symptoms of mental health disorders vary depending on the type and severity of the condition. The following is a list of general symptoms that may suggest a mental health disorder, particularly when multiple symptoms are expressed at once.\nIn adults:\nConfused thinking\nLong-lasting sadness or irritability\nExtreme highs and lows in mood\nExcessive fear, worrying, or anxiety\nSocial withdrawal\nDramatic changes in eating or sleeping habits\nStrong feelings of anger\nDelusions or hallucinations (seeing or hearing things that are not really there)\nIncreasing inability to cope with daily problems and activities\nThoughts of suicide\nDenial of obvious problems\nMany unexplained physical problems\nAbuse of drugs and/or alcohol\n  In older children and pre-teens:\nAbuse of drugs and/or alcohol\nInability to cope with daily problems and activities\nChanges in sleeping and/or eating habits\nExcessive complaints of physical problems\nDefying authority, skipping school, stealing, or damaging property\nIntense fear of gaining weight\nLong-lasting negative mood, often along with poor appetite and thoughts of death\nFrequent outbursts of anger\n  In younger children:\nChanges in school performance\nPoor grades despite strong efforts\nExcessive worrying or anxiety\nHyperactivity\nPersistent nightmares\nPersistent disobedience and/or aggressive behavior\nFrequent temper tantrums"]
+      }
+    ]
+}
